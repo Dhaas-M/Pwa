@@ -1,0 +1,55 @@
+{
+    "name": "PwaBlog",
+    "short_name": "Blog",
+    "start_url": "/index.html",
+    "display":"standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "id": "/index.html",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/72.png",
+            "type": "image/png",
+            "sizes": "72X72",
+            "purpose": "any"
+        },
+        {
+            "src": "/96.png",
+            "type": "image/png",
+            "sizes": "96X96",
+            "purpose": "any"
+        },
+        {
+            "src": "/128.png",
+            "type": "image/png",
+            "sizes": "128X128",
+            "purpose": "any"
+        },
+        {
+            "src": "/144.png",
+            "type": "image/png",
+            "sizes": "144X144",
+            "purpose": "any"
+        },
+        {
+            "src": "/192.png",
+            "type": "image/png",
+            "sizes": "192X192",
+            "purpose": "any"
+        },
+        {
+            "src": "/384.png",
+            "type": "image/png",
+            "sizes": "384X384",
+            "purpose": "any"
+        },
+        {
+            "src": "/512.png",
+            "type": "image/png",
+            "sizes": "512X512",
+            "purpose": "any"
+        }
+    ]
+}
